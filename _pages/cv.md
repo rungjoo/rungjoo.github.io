@@ -16,10 +16,13 @@ Education
 
 Work experience
 ======
-* (2020.05 ~ present) Kakao Enterprise: NLP Researche Engineer
+* (2020.05 ~ present) Kakao Enterprise: NLP Research Engineer
+  * Kakao Enterprises is a subsidiary of the Kakao Group. It is a company that focuses on AI, and I have been doing research and development in the NLP team.  * 
 * (2019.03 ~ 2020.05) LG AI Research (LG SciencePark): NLP Researcher 
+  * Specifically, I worked at LG SciencePark before founding LG AI Research. Researchers from various LG Group affiliates (LGU+, LGCNS, LGE, LG Chemistry, etc) worked together.
 * (2018.07 ~ 2019.02) LG CNS: NLP Researcher
-  
+  * At LG CNS, I switched my research field from image processing to natural language processing.
+
 Skills
 ======
 * Deep Learning: Python / Pytorch
