@@ -10,5 +10,7 @@ redirect_from:
 
 나의 설명
 
+My technical blog is [the site](https://ai-information.blogspot.com/)
+
 # Recent News
 * News
