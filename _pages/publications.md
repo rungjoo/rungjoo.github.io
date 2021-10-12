@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+[Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
+
 ## 2021
 * An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model <br>
 K Han, S Lee, W Lee, **J Lee**, D Lee. **EMNLP**, 2021    
