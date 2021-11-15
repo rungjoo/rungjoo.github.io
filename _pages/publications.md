@@ -7,6 +7,10 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
+## 2022
+* [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0] <br>
+**J Lee**, K Han.
+
 ## 2021
 * [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
 K Han, S Lee, W Lee, **J Lee**, D Lee. *Conference on Empirical Methods in Natural Language Processing*, 2021    
