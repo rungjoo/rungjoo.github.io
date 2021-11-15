@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-나의 설명
-
+I am an NLP research engineer currently working at kakao enterprise.
 My technical blog is [the site](https://ai-information.blogspot.com/)
 
 # Recent News
-* News
+* I participated in [SIMMC2.0](https://github.com/facebookresearch/simmc2) of DSTC10 and achieved 3rd group in subtask #1 and #2, 2nd group in subtask #4-1.
