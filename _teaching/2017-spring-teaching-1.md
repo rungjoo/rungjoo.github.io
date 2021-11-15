@@ -8,13 +8,5 @@ date: 2017-01-01
 location: "Seoul, South Korea"
 ---
 
-Digital Logic Circuit Class Assistant
+**Digital Logic Circuit Class Assistant**
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
