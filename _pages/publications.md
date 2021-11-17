@@ -29,12 +29,12 @@ K Han, S Lee, W Lee, **J Lee**, D Lee. *Conference on Empirical Methods in Natur
 **J Lee**. *International Conference on Natural Language Generation (oral)*, 2020
  
 ## 2019
-- [Controlled Korean Style Transfer using BERT]() <br>
+- [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
 **J Lee**, Y Oh, H Byun, K Min. *Annual Conference on Human and Cognitive Language Technology (Domestic Conference)*, 2019
 
 ## ~2018
-- [앙상블 기반의 비 고정식 카메라 상황 내 동적 객체검출](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07515805) <br>
-김우진，이준협，황상원，**이주성**，이상윤. *Domestic conferenece*, 2018
+- [Moving Object Detection in Non-stationary camera using Ensemble Approach](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07515805) <br>
+김우진，이준협，황상원，**이주성**，이상윤. *대한전자공학회 하계종합학술대회 (Domestic conferenece)*, 2018
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint*, 2018
