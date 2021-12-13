@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2022
 * [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
-**J Lee**, K Han. *DSTC10 Challenge Workshop at AAAI 2002*, 2021
+**J Lee**, K Han. *DSTC10 Challenge Workshop at AAAI 2022*, 2022
 
 ## 2021
 * [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
