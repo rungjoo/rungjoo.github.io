@@ -18,10 +18,10 @@ K Han, S Lee, W Lee, **J Lee**, D Lee. *EMNLP 2021*
 **J Lee**. *RANLP 2021*
 
 - [Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer](https://aclanthology.org/2020.inlg-1.25.pdf) <br>
-**J Lee**. *INLG (oral) 2020*, 
+**J Lee**. *INLG 2020 (oral)*
 
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
-K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access*, 2017
+K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access 2017*
 
 ## Domestic Publication
 - [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
