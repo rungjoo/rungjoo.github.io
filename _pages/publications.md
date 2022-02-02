@@ -8,8 +8,6 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
-asd
-
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
 **J Lee**, K Han. *DSTC10 Workshop at AAAI 2022*
 
