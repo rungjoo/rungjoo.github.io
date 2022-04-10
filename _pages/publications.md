@@ -8,6 +8,9 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) <br>
+**J Lee**, W Lee. *NAACL 2022*
+
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
 **J Lee**, K Han. *DSTC10 Workshop at AAAI 2022*
 
@@ -34,8 +37,8 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS 2018*
 
 ## Preprint
-- [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) <br>
-**J Lee**, W Lee. *Preprint 2021*
+- [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation]() <br>
+**J Lee**. *Not released 2022*
 
 - [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
 **J Lee**. *Preprint 2021*
