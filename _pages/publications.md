@@ -37,7 +37,7 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS 2018*
 
 ## Preprint
-- [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation]() <br>
+- [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://rungjoo.github.io//publications/) <br>
 **J Lee**. *Not released 2022*
 
 - [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
