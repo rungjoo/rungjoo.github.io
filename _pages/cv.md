@@ -17,13 +17,13 @@ Education
 Work experience
 ======
 * (2020.05 ~ present) **Kakao Enterprise**, South Korea: NLP Research Engineer
-* (2019.03 ~ 2020.05) **LG AI Research (LG SciencePark)**, South Korea: NLP Researcher 
+* (2019.02 ~ 2020.05) **LG AI Research (LG SciencePark)**, South Korea: NLP Researcher 
 * (2018.07 ~ 2019.02) **LG CNS**, South Korea: NLP Researcher
 
 Skills
 ======
-* Deep Learning: Python / Pytorch
-* Code Library: Docker / Nginx / Git / API / Apex / HTML 
+* Deep Learning: Python / Pytorch / Huggingface / Apex / accelerator
+* Code Library: Docker / Nginx / Git / FastAPI / HTML 
   
 Service
 ======
