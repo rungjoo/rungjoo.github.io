@@ -8,6 +8,9 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
+**J Lee**. *INLG 2022*
+
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) <br>
 **J Lee**, W Lee. *NAACL 2022*
 
@@ -39,9 +42,6 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access 2017*
 ## Preprint
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://rungjoo.github.io//publications/) <br>
 **J Lee**. *Not released 2022*
-
-- [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
-**J Lee**. *Preprint 2021*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint 2018*
