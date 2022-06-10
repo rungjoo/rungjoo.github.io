@@ -9,25 +9,25 @@ author_profile: true
 
 ## International Publication
 - [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
-**J Lee**. *INLG 2022*
+**J Lee**. *International Conference on Natural Language Generation (**INLG**) 2022*
 
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) <br>
-**J Lee**, W Lee. *NAACL 2022*
+**J Lee**, W Lee. *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) 2022*
 
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
-**J Lee**, K Han. *DSTC10 Workshop at AAAI 2022*
+**J Lee**, K Han. *Dialog System Technology Challenge 10 (**DSTC**) Workshop at AAAI 2022*
 
 - [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
-K Han, S Lee, W Lee, **J Lee**, D Lee. *EMNLP 2021*
+K Han, S Lee, W Lee, **J Lee**, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2021*
 
 - [Transforming Multi-Conditioned Generation from Meaning Representation](https://arxiv.org/pdf/2101.04257) <br>
-**J Lee**. *RANLP 2021*
+**J Lee**. *International Conference Recent Advances in Natural Language Processing (**RANLP**) 2021*
 
 - [Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer](https://aclanthology.org/2020.inlg-1.25.pdf) <br>
-**J Lee**. *INLG 2020 (oral)*
+**J Lee**. *International Conference on Natural Language Generation (**INLG**) 2020 oral*
 
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
-K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE Access 2017*
+K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access** 2017*
 
 ## Domestic Publication
 - [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
