@@ -9,7 +9,7 @@ author_profile: true
 
 ## International Publication
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://rungjoo.github.io//publications/) <br>
-**J Lee**. ***INTERSPEECH** 2022*
+**J Lee**. *Conference of the International Speech Communication Association (**INTERSPEECH**) 2022*
 
 - [Paraphrasing via Ranking Many Candidates](https://arxiv.org/pdf/2107.09274.pdf) <br>
 **J Lee**. *International Conference on Natural Language Generation (**INLG**) 2022*
