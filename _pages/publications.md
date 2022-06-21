@@ -15,7 +15,7 @@ author_profile: true
 **J Lee**. *International Conference on Natural Language Generation (**INLG**) 2022*
 
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://arxiv.org/pdf/2108.11626.pdf) <br>
-**J Lee**, W Lee. *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) 2022 [oral]*
+**J Lee**, W Lee. *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) 2022 [oral presentation]*
 
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
 **J Lee**, K Han. *Dialog System Technology Challenge 10 (**DSTC**) Workshop at **AAAI** 2022*
@@ -27,7 +27,7 @@ K Han, S Lee, W Lee, **J Lee**, D Lee. *Conference on Empirical Methods in Natur
 **J Lee**. *International Conference Recent Advances in Natural Language Processing (**RANLP**) 2021*
 
 - [Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer](https://aclanthology.org/2020.inlg-1.25.pdf) <br>
-**J Lee**. *International Conference on Natural Language Generation (**INLG**) 2020 [oral]*
+**J Lee**. *International Conference on Natural Language Generation (**INLG**) 2020 [oral presentation]*
 
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
 K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access** 2017*
