@@ -1,9 +1,9 @@
 ---
 title: "Natural Language Processing (Practical Project)"
 collection: teaching
-type: "lecture"
+type: "Lecture"
 permalink: https://fastcampus.co.kr/data_online_nlppr
-venue: "FastCampus"
+venue: "[FastCampus](https://fastcampus.co.kr/data_online_nlppr)"
 date: 2022-09-01
 location: "Seoul, South Korea"
 ---
