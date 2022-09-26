@@ -33,4 +33,4 @@ Study
 ======
 * [My Technical Blog](https://ai-information.blogspot.com/)
 * [List of Reading Paper](https://ai-information.blogspot.com/2022/05/paper-history.html)
-* Priviate NLP Study (2021.09~Present)
+* Priviate NLP Study (2021.09 ~ Present)
