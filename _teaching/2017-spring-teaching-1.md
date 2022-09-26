@@ -8,5 +8,15 @@ date: 2017-01-01
 location: "Seoul, South Korea"
 ---
 
-**Digital Logic Circuit Class Assistant**
+---
+title: "FastCampus"
+collection: teaching
+type: "asd"
+permalink: /teaching/2022_fastcampus
+venue: "FastCampus"
+date: 2022-09-01
+location: "Seoul, South Korea"
+---
+
+<!-- **Digital Logic Circuit Class Assistant** -->
 
