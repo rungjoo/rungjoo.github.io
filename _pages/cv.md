@@ -28,3 +28,7 @@ Skills
 Service
 ======
 * Reviewer: Natural Language Engineering (2021), ACL Rolling Review (2022)
+
+Study
+======
+* Priviate NLP Study (2021.09~Present)
