@@ -7,3 +7,5 @@ venue: "FastCampus"
 date: 2022-09-01
 location: "Seoul, South Korea"
 ---
+
+it is fastcampus
