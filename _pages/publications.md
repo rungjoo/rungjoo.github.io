@@ -18,7 +18,7 @@ author_profile: true
 **J Lee**, W Lee. *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**) 2022* (**oral presentation**)
 
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
-**J Lee**, K Han. * **AAAI Workshop:** Dialog System Technology Challenge 10 (**DSTC**) 2022*
+**J Lee**, K Han. ***AAAI Workshop:** Dialog System Technology Challenge 10 (**DSTC**) 2022*
 
 - [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
 K Han, S Lee, W Lee, **J Lee**, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2021*
