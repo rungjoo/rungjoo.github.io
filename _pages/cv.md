@@ -28,10 +28,10 @@ Skills
 Service
 ======
 * Reviewer: 
-  - EACL (2023)
   - ACM Transactions on Information Systems (2023)  
+  - EACL (2023)
   - NAACL (2022)
-  - Rolling Review (2022 - )
+  - ACL Rolling Review (2022 - )
   - Natural Language Engineering (2021)
 
 Study
