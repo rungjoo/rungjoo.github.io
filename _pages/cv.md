@@ -19,11 +19,6 @@ Work experience
 * (2020.05 ~ present) **Kakao Enterprise**, South Korea: NLP Research Engineer
 * (2019.02 ~ 2020.05) **LG AI Research (LG SciencePark)**, South Korea: NLP Researcher 
 * (2018.07 ~ 2019.02) **LG CNS**, South Korea: NLP Researcher
-
-Skills
-======
-* Deep Learning: Python / Pytorch / Huggingface / Apex / accelerator
-* Code Library: Docker / Nginx / Git / FastAPI / HTML 
   
 Service
 ======
@@ -33,6 +28,14 @@ Service
   - NAACL (2022)
   - ACL Rolling Review (2022 - )
   - Natural Language Engineering (2021)
+* Teaching Experience
+  - [Natural Language Processing (Practical Project)]("https://fastcampus.co.kr/data_online_nlppr")
+  - Digital Logic Circuit Class Assistant, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
+
+Skills
+======
+* Deep Learning: Python / Pytorch / Huggingface / Apex / accelerator
+* Code Library: Docker / Nginx / Git / FastAPI / HTML 
 
 Study
 ======
