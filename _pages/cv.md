@@ -22,7 +22,7 @@ Work experience
   
 Service
 ======
-* Reviewer: 
+* Reviewer 
   - ACM Transactions on Information Systems (2023)  
   - EACL (2023)
   - NAACL (2022)
