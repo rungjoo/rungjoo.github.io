@@ -29,8 +29,8 @@ Service
   - ACL Rolling Review (2022~)
   - Natural Language Engineering (2021)
 * Teaching Experience
-  - Lecturer, Natural Language Processing (Practical Project), [FastCampus](https://fastcampus.co.kr/data_online_nlppr), 2022
-  - Assistant, Digital Logic Circuit Class, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
+  - Lecturer, **Natural Language Processing (Practical Project)**, [FastCampus](https://fastcampus.co.kr/data_online_nlppr), 2022
+  - Assistant, **Digital Logic Circuit**, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
 
 Skills
 ======
