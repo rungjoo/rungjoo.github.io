@@ -26,7 +26,7 @@ Service
   - ACM Transactions on Information Systems (2023)  
   - EACL (2023)
   - NAACL (2022)
-  - ACL Rolling Review (2022 - )
+  - ACL Rolling Review (2022~)
   - Natural Language Engineering (2021)
 * Teaching Experience
   - Lecturer, Natural Language Processing (Practical Project), [FastCampus](https://fastcampus.co.kr/data_online_nlppr), 2022
@@ -34,8 +34,8 @@ Service
 
 Skills
 ======
-* Deep Learning: Python / Pytorch / Huggingface / Apex / accelerator
-* Code Library: Docker / Nginx / Git / FastAPI / HTML 
+* Deep Learning: Python / Pytorch / Huggingface / Apex / accelerator / onnx / streamlit / gradio
+* Code Library: Docker / Nginx / Git / FastAPI / MongoDB
 
 Study
 ======
