@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* (2022.11 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;) **Naver**, South Korea: NLP Research Engineer
+* (2022.11 ~ &nbsp;) **Naver**, South Korea: NLP Research Engineer
 * (2020.05 ~ 2022.11) **Kakao Enterprise**, South Korea: NLP Research Engineer
 * (2019.02 ~ 2020.05) **LG AI Research (LG SciencePark)**, South Korea: NLP Researcher 
 * (2018.07 ~ 2019.02) **LG CNS**, South Korea: NLP Researcher
