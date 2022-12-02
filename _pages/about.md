@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an NLP research engineer currently working at kakao enterprise.
+I am an NLP research engineer currently working at NAVER.
 
 My technical blog is [the site](https://ai-information.blogspot.com/)
 
