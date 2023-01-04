@@ -21,7 +21,7 @@ Work experience
 * (2019.02 ~ 2020.05) **LG SciencePark (now. LG AI Research)**, South Korea: NLP Researcher 
 * (2018.07 ~ 2019.02) **LG CNS**, South Korea: NLP Researcher
   
-Service
+Activities
 ======
 * Reviewer 
   - ACL (2023)
