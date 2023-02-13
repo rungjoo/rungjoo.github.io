@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Contact
-===
+### Contact
 * email: mexade92@gmail.com
 
 Education
