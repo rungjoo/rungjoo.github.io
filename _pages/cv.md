@@ -33,7 +33,7 @@ Activities
   - ACL Rolling Review (ARR) (2022)
   - Natural Language Engineering (NLE) (2021)
 * Talks
-  - (Invited talks) Conversation with Emotions, 6th International Workshop on Dialog Systems (IWDS)
+  - (Invited talks) [Conversation with Emotions](https://sigai.or.kr/workshop/bigcomp/2023/iwds/), 6th International Workshop on Dialog Systems (IWDS)
 * Teaching Experience
   - Lecturer, **Natural Language Processing (Practical Project)**, [FastCampus](https://fastcampus.co.kr/data_online_nlppr), 2022
   - Assistant, **Digital Logic Circuit**, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
