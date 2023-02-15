@@ -44,7 +44,7 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 
 ## Preprint
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-M Oh, **J Lee**, J Li, G Wang
+M Oh, **J Lee**, J Li, G Wang. *Preprint, 2023*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint, 2018*
