@@ -27,10 +27,10 @@ Activities
 ======
 * Reviewer 
   - ACL (2023)
-  - EACL (2023)
-  - ACM Transactions on Information Systems (2023)  
+  - EACL (2023)  
   - NAACL (2022)
-  - ACL Rolling Review (ARR) (2022)
+  - ACL Rolling Review (ARR) (2022, 2023)
+  - ACM Transactions on Information Systems (TOIS) (2023)
   - Natural Language Engineering (NLE) (2021)
 * Talks
   - (Invited talks) Conversation with Emotions, [6th International Workshop on Dialog Systems (IWDS)](https://sigai.or.kr/workshop/bigcomp/2023/iwds/)
