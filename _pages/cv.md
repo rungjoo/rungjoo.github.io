@@ -25,9 +25,7 @@ Work experience
   
 Activities
 ======
-* Reviewer 
-  - ACL (2023)
-  - EACL (2023)  
+* Reviewer  
   - NAACL (2022)
   - ACL Rolling Review (ARR) (2022, 2023)
   - ACM Transactions on Information Systems (TOIS) (2023)
