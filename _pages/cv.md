@@ -33,6 +33,7 @@ Activities
 * Talks
   - (Invited talks) Conversation with Emotions, [6th International Workshop on Dialog Systems (IWDS)](https://sigai.or.kr/workshop/bigcomp/2023/iwds/)
 * Teaching Experience
+  - Lecturer, **Technical Review of ChatGPT**, [FastCampus](https://fastcampus.co.kr/data_online_chatgptrv), 2023
   - Lecturer, **Natural Language Processing (Practical Project)**, [FastCampus](https://fastcampus.co.kr/data_online_nlppr), 2022
   - Assistant, **Digital Logic Circuit**, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
 
