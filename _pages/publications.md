@@ -43,7 +43,7 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS, 2018*
 
 ## Preprint
-- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]()
+- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
 **J Lee**, MS Oh, D Lee. *Under Review 2023*
 
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
