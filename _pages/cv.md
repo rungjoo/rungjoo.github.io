@@ -31,8 +31,8 @@ Activities
   - ACM Transactions on Information Systems (TOIS) (2023)
   - Natural Language Engineering (NLE) (2021)
 * Talks
-  - (Invited talk) Conversation with Emotions, [6th International Workshop on Dialog Systems (IWDS)](https://sigai.or.kr/workshop/bigcomp/2023/iwds/), 2023
-  - (In-house talk) You and I can use large-scale language models in our work: To Beginner, Engineering day, Naver, 2023
+  - Conversation with Emotions, [6th International Workshop on Dialog Systems (IWDS)](https://sigai.or.kr/workshop/bigcomp/2023/iwds/), 2023
+  - You and I can use large-scale language models in our work: To Beginner, Engineering day, Naver, 2023 (In-house talk)
 * Teaching Experience
   - Lecturer, [Technical Review of ChatGPT](https://fastcampus.co.kr/data_online_chatgptrv), FastCampus, 2023
   - Lecturer, [Natural Language Processing (Practical Project)](https://fastcampus.co.kr/data_online_nlppr), FastCampus, 2022
