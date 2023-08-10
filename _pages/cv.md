@@ -40,6 +40,7 @@ Activities
 * Technical Article
   - [Review of NAACL 2022](https://tech.kakaoenterprise.com/156)
   - [Review of SIMMC 2.0](https://tech.kakaoenterprise.com/139)
+  - [Deep learning technology that changes text style](https://kakaoenterprise.github.io/deepdive/210525)
 
 Skills
 ======
