@@ -43,6 +43,9 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS, 2018*
 
 ## Preprint
+- [Facet Generation using LLM without Search Engine]() <br>
+Working on progess
+
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
 **J Lee**, MS Oh, D Lee. *Under Review 2023*
 
