@@ -8,6 +8,12 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
+**J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023*
+
+- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
+MS Oh, **J Lee**, J Li, G Wang. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023*
+
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lee22e_interspeech.pdf) <br>
 **J Lee**. *Conference of the International Speech Communication Association (**INTERSPEECH**) 2022*
 
@@ -45,12 +51,6 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 ## Preprint
 - [Facet Generation using LLM without Search Engine]() <br>
 Working on progess
-
-- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
-**J Lee**, MS Oh, D Lee. *Under Review 2023*
-
-- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-MS Oh, **J Lee**, J Li, G Wang. *Preprint, 2023*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint, 2018*
