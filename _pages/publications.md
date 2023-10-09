@@ -9,16 +9,16 @@ author_profile: true
 
 ## International Publication
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
-**J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023*
+**J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
 
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-MS Oh, **J Lee**, J Li, G Wang. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**) 2023*
+MS Oh, **J Lee**, J Li, G Wang. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
 
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lee22e_interspeech.pdf) <br>
-**J Lee**. *Conference of the International Speech Communication Association (**INTERSPEECH**) 2022*
+**J Lee**. *Conference of the International Speech Communication Association (**INTERSPEECH**), 2022*
 
 - [Paraphrasing via Ranking Many Candidates](https://aclanthology.org/2022.inlg-main.6.pdf) <br>
-**J Lee**. *International Conference on Natural Language Generation (**INLG**) 2022*
+**J Lee**. *International Conference on Natural Language Generation (**INLG**), 2022*
 
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://aclanthology.org/2022.naacl-main.416.pdf) <br>
 **J Lee**, W Lee. *Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**), 2022* (**oral presentation**)
