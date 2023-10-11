@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
-- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection]() <br>
+- [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
 **J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
 
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
