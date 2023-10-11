@@ -35,7 +35,7 @@ Activities
   - [Conversation with Emotions](https://sigai.or.kr/workshop/bigcomp/2023/iwds/), 6th International Workshop on Dialog Systems (IWDS), 2023
   - [You and I can use large-scale language models in our work: To Beginner](https://d2.naver.com/helloworld/9383947), Engineering day, Naver, 2023
 * Teaching Experience
-  - Lecturer, two times, FastCampus
+  - Lecture related to NLP, two times, FastCampus
   - Assistant, Digital Logic Circuit, Undergraduate course, Yonsei University, Electrical and Electronic Engineering, 2017
 * Technical Article
   - [Review of NAACL 2022](https://tech.kakaoenterprise.com/156)
