@@ -35,9 +35,8 @@ Activities
   - [Conversation with Emotions](https://sigai.or.kr/workshop/bigcomp/2023/iwds/), 6th International Workshop on Dialog Systems (IWDS), 2023
   - [You and I can use large-scale language models in our work: To Beginner](https://d2.naver.com/helloworld/9383947), Engineering day, Naver, 2023
 * Teaching Experience
-  - Lecturer, [Technical Review of ChatGPT](https://fastcampus.co.kr/data_online_chatgptrv), FastCampus, 2023
-  - Lecturer, [Natural Language Processing (Practical Project)](https://fastcampus.co.kr/data_online_nlppr), FastCampus, 2022
-  - Assistant, Digital Logic Circuit, Undergraduate course, Yonsei University, Electrical and Electronic engineering, 2017
+  - Lecturer, two times, FastCampus
+  - Assistant, Digital Logic Circuit, Undergraduate course, Yonsei University, Electrical and Electronic Engineering, 2017
 * Technical Article
   - [Review of NAACL 2022](https://tech.kakaoenterprise.com/156)
   - [Review of SIMMC 2.0](https://tech.kakaoenterprise.com/139)
