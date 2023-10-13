@@ -38,9 +38,9 @@ Activities
   - Lecture related to NLP, two times, FastCampus
   - Assistant, Digital Logic Circuit, Undergraduate course, Yonsei University, Electrical and Electronic Engineering, 2017
 * Technical Article
-  - [Review of NAACL 2022](https://tech.kakaoenterprise.com/156)
-  - [Review of SIMMC 2.0](https://tech.kakaoenterprise.com/139)
-  - [Deep learning technology that changes text style](https://kakaoenterprise.github.io/deepdive/210525)
+  - [Review of NAACL 2022](https://tech.kakaoenterprise.com/156), Kakao Enterprise
+  - [Review of SIMMC 2.0](https://tech.kakaoenterprise.com/139), Kakao Enterprise
+  - [Deep learning technology that changes text style](https://kakaoenterprise.github.io/deepdive/210525), Kakao Enterprise
 
 Skills
 ======
