@@ -50,7 +50,7 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 
 ## Preprint
 - [Facet Generation using LLM without Search Engine]() <br>
-**J Lee**, J Kim. *Under Review*
+**J Lee**, J Kim. *Under Review 2024*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint, 2018*
