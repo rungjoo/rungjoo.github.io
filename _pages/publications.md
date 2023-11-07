@@ -12,7 +12,7 @@ author_profile: true
 **J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
 
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-MS Oh, **J Lee**, J Li, G Wang. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
+MS Oh, **J Lee**, J Li, G Wang. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023* (**oral presentation**)
 
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lee22e_interspeech.pdf) <br>
 **J Lee**. *Conference of the International Speech Communication Association (**INTERSPEECH**), 2022*
