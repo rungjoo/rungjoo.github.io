@@ -8,6 +8,9 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [Facet Generation using LLM without Search Engine]() <br>
+**J Lee**, J Kim. *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**), 2024*
+
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
 **J Lee**, MS Oh, D Lee. *Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023*
 
@@ -49,8 +52,5 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS, 2018*
 
 ## Preprint
-- [Facet Generation using LLM without Search Engine]() <br>
-**J Lee**, J Kim. *Under Review 2024*
-
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint, 2018*
