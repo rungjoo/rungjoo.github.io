@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
-- [Facet Generation using LLM without Search Engine]() <br>
+- [LLM Editing: Facet Generation using LLM without Search Engine]() <br>
 **J Lee**, J Kim. *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**), 2024*
 
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
