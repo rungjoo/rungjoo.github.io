@@ -26,6 +26,8 @@ Work experience
 Activities
 ======
 * Reviewer
+  - CogSci (2024)
+  - SIGIR (2024)
   - EMNLP (2023)
   - NAACL (2022)
   - ACL Rolling Review (ARR) (2022, 2023)
