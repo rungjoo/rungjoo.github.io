@@ -26,6 +26,7 @@ Work experience
 Activities
 ======
 * Reviewer
+  - EACL (2024)
   - CogSci (2024)
   - SIGIR (2024)
   - EMNLP (2023)
