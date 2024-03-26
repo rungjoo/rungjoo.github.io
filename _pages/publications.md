@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
-- [Enhanced Facet Generation with LLM Editing]() <br>
+- [Enhanced Facet Generation with LLM Editing](https://arxiv.org/pdf/2403.16345.pdf) <br>
 **J Lee**, J Kim. *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**), 2024*
 
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
