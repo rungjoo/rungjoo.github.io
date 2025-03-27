@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Contact: mexade92@gmail.com
+[CV](https://ko.overleaf.com/read/nwvsphqcttjd#4d3779)
 
 Education
 ======
