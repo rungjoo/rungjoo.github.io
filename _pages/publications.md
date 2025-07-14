@@ -52,5 +52,10 @@ K Lee, J Lee, **J Lee**, S Hwang, S Lee. *IEEE **Access**, 2017*
 **J Lee**, S Hwang, WJ Kim, S Lee. *KIPS, 2018*
 
 ## Preprint
+- [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
+
+- [Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models](https://arxiv.org/pdf/2506.05850) <br>
+Cheonbok Park, Jeonghoon Kim, **Joosung Lee**, Sanghwan Bae, Jaegul Choo, Kangmin Yoo
+
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **J Lee**, S Hwang, K Lee, WJ Kim, J Lee, T Chung, S Lee. *Preprint, 2018*
