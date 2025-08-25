@@ -62,6 +62,10 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
+- [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
+**Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park, Kang Min Yoo <br>
+*Preprint, 2025*
+
 - [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
 *Preprint, 2025*
 
