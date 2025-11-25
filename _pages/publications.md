@@ -62,15 +62,19 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
+- [Continual Pre-Training for Hallucination Reduction]([https://arxiv.org/pdf/2507.20546?](https://openreview.net/forum?id=uI9yO6DPIc)) <br>
+Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
+*Openreview, 2025*
+
 - [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
-**Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park, Kang Min Yoo <br>
+**Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
 *Preprint, 2025*
 
 - [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
 *Preprint, 2025*
 
 - [Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models](https://arxiv.org/pdf/2506.05850) <br>
-Cheonbok Park, Jeonghoon Kim, **Joosung Lee**, Sanghwan Bae, Jaegul Choo, Kangmin Yoo <br>
+Cheonbok Park, Jeonghoon Kim, **Joosung Lee**, Sanghwan Bae, Jaegul Choo<sup>&dagger;</sup>, Kangmin Yoo<sup>&dagger;</sup> <br>
 *Preprint, 2025*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
