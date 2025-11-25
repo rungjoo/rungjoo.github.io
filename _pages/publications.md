@@ -62,6 +62,9 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
+- What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations <br>
+Woking on progress <br>
+
 - [Continual Pre-Training for Hallucination Reduction](https://openreview.net/forum?id=uI9yO6DPIc) <br>
 Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
 *Openreview, 2025*
