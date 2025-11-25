@@ -77,7 +77,7 @@ Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<
 *Preprint, 2025*
 
 - [Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models](https://arxiv.org/pdf/2506.05850) <br>
-Cheonbok Park, Jeonghoon Kim, **Joosung Lee**, Sanghwan Bae, Jaegul Choo<sup>&dagger;</sup>, Kangmin Yoo<sup>&dagger;</sup> <br>
+Cheonbok Park*, Jeonghoon Kim*, **Joosung Lee**, Sanghwan Bae, Jaegul Choo<sup>&dagger;</sup>, Kangmin Yoo<sup>&dagger;</sup> <br>
 *Preprint, 2025*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
