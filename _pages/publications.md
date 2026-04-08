@@ -8,6 +8,10 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
+**Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
+*Annual Meeting of the Association for Computational Linguistics (**Findings of ACL**) 2026*
+
 - [Enhanced Facet Generation with LLM Editing](https://arxiv.org/pdf/2403.16345.pdf) <br>
 **Joosung Lee**, Jinhong Kim. <br>
 *Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING**), 2024*
@@ -62,16 +66,24 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
-- What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations <br>
-Woking on progress <br>
+- [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() \\
+Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, Sang-goo Lee, **Joosung Lee**<sup>&dagger;</sup> <br>
+*Under Review 2026*
+
+- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models](), Under Review 2026 \\
+Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**<, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
+*Under Review 2026*
+
+- ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge, Under Review 2026 \\
+Jisu Jeon, Seungyeon Jwa, **Joosung Lee**<, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
+*Under Review 2026*
+
+- [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
+**Joosung Lee**, Hwiyeol Jo, Donghyeon Ko, Kyubyung Chae, Cheonbok Park, Jeonghoon Kim<sup>&dagger;</sup> <br>
 
 - [Continual Pre-Training for Hallucination Reduction](https://openreview.net/forum?id=uI9yO6DPIc) <br>
 Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
 *Openreview, 2025*
-
-- [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
-**Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
-*Preprint, 2025*
 
 - [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
 *Preprint, 2025*
