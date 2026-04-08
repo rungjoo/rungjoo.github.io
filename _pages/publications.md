@@ -71,11 +71,11 @@ Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, 
 *Under Review 2026*
 
 - [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
-Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**<, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
+Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
 *Under Review 2026*
 
 - [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() <br>
-Jisu Jeon, Seungyeon Jwa, **Joosung Lee**<, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
+Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
 *Under Review 2026*
 
 - [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
