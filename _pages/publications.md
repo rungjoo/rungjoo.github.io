@@ -66,15 +66,15 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
-- [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() \\
+- [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() <br>
 Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, Sang-goo Lee, **Joosung Lee**<sup>&dagger;</sup> <br>
 *Under Review 2026*
 
-- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() \\
+- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
 Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**<, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
 *Under Review 2026*
 
-- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() \\
+- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() <br>
 Jisu Jeon, Seungyeon Jwa, **Joosung Lee**<, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
 *Under Review 2026*
 
