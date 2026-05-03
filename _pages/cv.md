@@ -28,12 +28,12 @@ Work experience
 Activities
 ======
 * Reviewer
-  - EACL (2024)
+  - ACL Rolling Review (ARR)
+  - ACL / EMNLP / NAACL / EACL
+  - NeurIPS (2026)
+  - INTERSPEECH (2026)
   - CogSci (2024)
   - SIGIR (2024)
-  - EMNLP (2023)
-  - NAACL (2022)
-  - ACL Rolling Review (ARR) (2022, 2023)
   - ACM Transactions on Information Systems (TOIS) (2023)
   - Natural Language Engineering (NLE) (2021)
 * Talks
