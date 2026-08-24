@@ -10,7 +10,7 @@ author_profile: true
 ## International Publication
 - [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
 Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
-*Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2026*
+* **EMNLP**, 2026*
 
 - [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
 **Joosung Lee**, Hwiyeol Jo, Donghyeon Ko, Kyubyung Chae, Cheonbok Park, Jeonghoon Kim<sup>&dagger;</sup> <br>
