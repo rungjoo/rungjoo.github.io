@@ -8,6 +8,10 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis]() <br>
+Cheonbok Park, Jihwan Kim, Shinyoung Joo, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Jaegul Choo<sup>&dagger;</sup> <br>
+***EMNLP**, 2026*
+
 - [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
 Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
 ***EMNLP**, 2026*
