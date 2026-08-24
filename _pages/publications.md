@@ -8,6 +8,22 @@ author_profile: true
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## International Publication
+- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
+Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
+*EMNLP 2026*
+
+- [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
+**Joosung Lee**, Hwiyeol Jo, Donghyeon Ko, Kyubyung Chae, Cheonbok Park, Jeonghoon Kim<sup>&dagger;</sup> <br>
+*Findings of EMNLP 2026*
+
+- [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() <br>
+Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, Sang-goo Lee, **Joosung Lee**<sup>&dagger;</sup> <br>
+*Findings of EMNLP 2026*
+
+- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() <br>
+Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
+*INTERSPEECH 2026*
+
 - [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
 **Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
 *Annual Meeting of the Association for Computational Linguistics (**Findings of ACL**) 2026*
@@ -66,21 +82,6 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee. *IEEE 
 **이주성**, 황상원, 김우진, 이상윤. *KIPS, 2018*
 
 ## Preprint
-- [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() <br>
-Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, Sang-goo Lee, **Joosung Lee**<sup>&dagger;</sup> <br>
-*Under Review 2026*
-
-- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
-Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
-*Under Review 2026*
-
-- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() <br>
-Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
-*Under Review 2026*
-
-- [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
-**Joosung Lee**, Hwiyeol Jo, Donghyeon Ko, Kyubyung Chae, Cheonbok Park, Jeonghoon Kim<sup>&dagger;</sup> <br>
-
 - [Continual Pre-Training for Hallucination Reduction](https://openreview.net/forum?id=uI9yO6DPIc) <br>
 Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
 *Openreview, 2025*
