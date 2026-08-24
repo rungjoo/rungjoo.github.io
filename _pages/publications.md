@@ -50,7 +50,7 @@ Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
 
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://aclanthology.org/2022.naacl-main.416.pdf) <br>
 **Joosung Lee**, Wooin Lee. <br>
-**NAACL**, 2022* (**oral presentation**)
+***NAACL**, 2022 (**oral presentation**)*
 
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
 **Joosung Lee**, Kijong Han. <br>
