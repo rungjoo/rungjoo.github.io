@@ -102,6 +102,7 @@ Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
 *KIPS, 2018*
 
 ## Preprint
+<!--
 - [KAD-QA: A Benchmark for Multi-Hop Reasoning across Hierarchical Text and Tables in Korean Administrative Documents]() <br>
 Shinyoung Joo, Cheonbok Park, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup> <br>
 *Under Review, 2026*
@@ -109,6 +110,7 @@ Shinyoung Joo, Cheonbok Park, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Joonsu
 - [Disentanglement of Reasoning Trace and Answer Commitment under Option Augmentation with Option-Set Reasoning]() <br>
 Hwiyeol Jo, **Joosung Lee**, Cheonbok Park, Joonsuk Park, Jeonghoon Kim
 *Under Review, 2026*
+-->
 
 - [Finding answers in thought matters: Revisiting evaluation on large language models with reasoning](https://arxiv.org/pdf/2510.14773?) <br>
 Hwiyeol Jo, **Joosung Lee**, Jaehone Lee, Sang-Woo Lee, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
