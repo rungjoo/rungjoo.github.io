@@ -7,15 +7,7 @@ author_profile: true
 
 [Google Scholar Profile](https://scholar.google.co.kr/citations?hl=ko&user=97I4jiEAAAAJ&view_op=list_works&sortby=pubdate)
 
-## International Publication
-- [From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis]() <br>
-Cheonbok Park, Jihwan Kim, Shinyoung Joo, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Jaegul Choo<sup>&dagger;</sup> <br>
-***EMNLP**, 2026*
-
-- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
-Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
-***EMNLP**, 2026*
-
+## Lead papers
 - [What Models Know, How Well They Know It: Estimating Continuous Knowledge to Reduce Hallucinations](https://arxiv.org/pdf/2604.05779) <br>
 **Joosung Lee**, Hwiyeol Jo, Donghyeon Ko, Kyubyung Chae, Cheonbok Park, Jeonghoon Kim<sup>&dagger;</sup> <br>
 ***Findings of EMNLP**, 2026*
@@ -23,10 +15,6 @@ Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon K
 - [Can Omni-models Imagine the Future? A Next Scene Prediction Benchmark for Multimodal World Modeling]() <br>
 Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, Sang-goo Lee, **Joosung Lee**<sup>&dagger;</sup> <br>
 ***Findings of EMNLP**, 2026*
-
-- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge]() <br>
-Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
-***INTERSPEECH**, 2026*
 
 - [Enhancing Hallucination Detection via Future Context](https://arxiv.org/pdf/2507.20546?) <br>
 **Joosung Lee**, Cheonbok Park, Hwiyeol Jo, Jeonghoon Kim, Joonsuk Park<sup>&dagger;</sup>, Kang Min Yoo<sup>&dagger;</sup> <br>
@@ -39,10 +27,6 @@ Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol J
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
 **Joosung Lee**, Minsik Oh, Donghun Lee. <br>
 ***EMNLP**, 2023*
-
-- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
-***EMNLP**, 2023 (**oral presentation**)*
 
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lee22e_interspeech.pdf) <br>
 **Joosung Lee**. <br>
@@ -60,10 +44,6 @@ Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
 **Joosung Lee**, Kijong Han. <br>
 ***AAAI Workshop:** Dialog System Technology Challenge 10 (**DSTC**), 2022*
 
-- [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
-Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
-***EMNLP**, 2021*
-
 - [Transforming Multi-Conditioned Generation from Meaning Representation](https://aclanthology.org/2021.ranlp-1.92.pdf) <br>
 **Joosung Lee**. <br>
 ***RANLP**, 2021*
@@ -72,11 +52,40 @@ Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
 **Joosung Lee**. <br>
 ***INLG**, 2020 (**oral presentation**)*
 
+## Other papers
+- [From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis]() <br>
+Cheonbok Park, Jihwan Kim, Shinyoung Joo, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Jaegul Choo<sup>&dagger;</sup> <br>
+***EMNLP**, 2026*
+
+- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
+Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
+***EMNLP**, 2026*
+  
+- [ParaPairAudioBench: Paralinguistic Pairwise Audio Benchmark for AudioLLM-as-a-Judge](https://arxiv.org/pdf/2606.24648) <br>
+Jisu Jeon, Seungyeon Jwa, **Joosung Lee**, Jinhyeon Kim, Woojin Chung, Hwiyeol Jo, Jeonghoon Kim, Jonghyun Choi, Soyoon Kim<sup>&dagger;</sup> <br>
+***INTERSPEECH**, 2026*
+
+- [HyperCLOVA X 8B Omni](https://arxiv.org/pdf/2601.01792) <br>
+NCHX Team <br>
+*Tech Report, 2026*
+
+- [HyperCLOVA X 32B Think](https://arxiv.org/pdf/2601.03286) <br>
+NCHX Team <br>
+*Tech Report, 2026*
+
+- [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
+Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
+***EMNLP**, 2021*  
+  
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
 Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee.  <br>
 *IEEE **Access**, 2017*
 
 ## Domestic Publication
+- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
+Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
+***EMNLP**, 2023 (**oral presentation**)*
+  
 - [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
 **이주성**, 오연택, 변현진, 민경구. <br>
 *HCLT, 2019*
