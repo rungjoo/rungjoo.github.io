@@ -70,7 +70,7 @@ Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
 
 - [Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer](https://aclanthology.org/2020.inlg-1.25.pdf) <br>
 **Joosung Lee**. <br>
-***INLG**, 2020* (**oral presentation**)
+***INLG**, 2020 (**oral presentation**)*
 
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
 Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee.  <br>
