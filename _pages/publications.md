@@ -102,13 +102,17 @@ Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
 *KIPS, 2018*
 
 ## Preprint
+- [Finding answers in thought matters: Revisiting evaluation on large language models with reasoning](https://arxiv.org/pdf/2510.14773?) <br>
+Hwiyeol Jo, **Joosung Lee**, Jaehone Lee, Sang-Woo Lee, Joonsuk Park, Kang Min Yoo <br>
+*Under Review, 2025*
+
 - [Continual Pre-Training for Hallucination Reduction](https://openreview.net/forum?id=uI9yO6DPIc) <br>
 Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
-*Openreview, 2025*
+*Under Review, 2025*
 
 - [Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models](https://arxiv.org/pdf/2506.05850) <br>
 Cheonbok Park*, Jeonghoon Kim*, **Joosung Lee**, Sanghwan Bae, Jaegul Choo<sup>&dagger;</sup>, Kangmin Yoo<sup>&dagger;</sup> <br>
-*Preprint, 2025*
+*Under Review, 2025*
 
 - [AD-VO: Scale-Resilient Visual Odometry Using Attentive Disparity Map](https://arxiv.org/pdf/2001.02090) <br>
 **Joosung Lee**, Sangwon Hwang, Kyungjae Lee, Woo Jin Kim, Junhyeop Lee, Tae-young Chung, Sangyoun Lee. <br>
