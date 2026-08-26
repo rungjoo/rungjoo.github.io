@@ -73,6 +73,9 @@ NCHX Team <br>
 NCHX Team <br>
 *Tech Report, 2026*
 
+- [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
+*Tech Report, 2025*
+
 - [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
 Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
 ***EMNLP**, 2021*  
@@ -102,9 +105,6 @@ Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
 - [Continual Pre-Training for Hallucination Reduction](https://openreview.net/forum?id=uI9yO6DPIc) <br>
 Minsik_Oh, Sung-ju Kim, Douwe Kiela, Guoyin Wang, Kang Min Yoo, **Joosung Lee**<sup>&dagger;</sup> <br>
 *Openreview, 2025*
-
-- [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
-*Preprint, 2025*
 
 - [Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models](https://arxiv.org/pdf/2506.05850) <br>
 Cheonbok Park*, Jeonghoon Kim*, **Joosung Lee**, Sanghwan Bae, Jaegul Choo<sup>&dagger;</sup>, Kangmin Yoo<sup>&dagger;</sup> <br>
