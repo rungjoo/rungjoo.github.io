@@ -57,7 +57,7 @@ Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, 
 Cheonbok Park, Jihwan Kim, Shinyoung Joo, **Joosung Lee**, Hwiyeol Jo, Jeonghoon Kim, Jaegul Choo<sup>&dagger;</sup> <br>
 ***EMNLP**, 2026*
 
-- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models]() <br>
+- [OmniACBench: A Benchmark for Evaluating Context-Grounded Acoustic Control in Omni-Modal Models](https://arxiv.org/pdf/2603.23938) <br>
 Seunghee Kim, Bumkyu Park, Kyudan Jung, **Joosung Lee**, Soyoon Kim, Jeonghoon Kim, Taeuk Kim<sup>&dagger;</sup>, Hwiyeol Jo<sup>&dagger;</sup> <br>
 ***EMNLP**, 2026*
   
