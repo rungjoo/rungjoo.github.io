@@ -76,6 +76,10 @@ NCHX Team <br>
 - [HyperCLOVA X THINK Technical Report](https://arxiv.org/pdf/2506.22403) <br>
 *Tech Report, 2025*
 
+- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
+Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
+***EMNLP**, 2023 (**oral presentation**)*
+
 - [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
 Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
 ***EMNLP**, 2021*  
@@ -85,10 +89,6 @@ Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee.  <br>
 *IEEE **Access**, 2017*
 
 ## Domestic Publication
-- [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
-***EMNLP**, 2023 (**oral presentation**)*
-  
 - [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
 **이주성**, 오연택, 변현진, 민경구. <br>
 *HCLT, 2019*
