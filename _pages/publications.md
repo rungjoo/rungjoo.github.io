@@ -21,7 +21,7 @@ Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, 
 ***Findings of ACL**, 2026*
 
 - [Enhanced Facet Generation with LLM Editing](https://arxiv.org/pdf/2403.16345.pdf) <br>
-**Joosung Lee**, Jinhong Kim. <br>
+**Joosung Lee**, Jinhong Kim <br>
 ***LREC-COLING**, 2024*
 
 - [P5: Plug-and-Play Persona Prompting for Personalized Response Selection](https://arxiv.org/pdf/2310.06390.pdf) <br>
@@ -29,27 +29,27 @@ Junyeob Kim, Jihwan Kim, Minha Jhang, Sungwook Jeon, Hwiyeol Jo, Jeonghoon Kim, 
 ***EMNLP**, 2023*
 
 - [The Emotion is Not One-hot Encoding: Learning with Grayscale Label for Emotion Recognition in Conversation](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lee22e_interspeech.pdf) <br>
-**Joosung Lee**. <br>
+**Joosung Lee** <br>
 ***INTERSPEECH**, 2022*
 
 - [Paraphrasing via Ranking Many Candidates](https://aclanthology.org/2022.inlg-main.6.pdf) <br>
-**Joosung Lee**. <br>
+**Joosung Lee** <br>
 ***INLG**, 2022*
 
 - [CoMPM: Context Modeling with Speaker's Pre-trained Memory Tracking for Emotion Recognition in Conversation](https://aclanthology.org/2022.naacl-main.416.pdf) <br>
-**Joosung Lee**, Wooin Lee. <br>
+**Joosung Lee**, Wooin Lee <br>
 ***NAACL**, 2022 (**oral presentation**)*
 
 - [Multimodal Interactions Using Pretrained Unimodal Models for SIMMC 2.0](https://arxiv.org/pdf/2112.05328.pdf) <br>
-**Joosung Lee**, Kijong Han. <br>
+**Joosung Lee**, Kijong Han <br>
 ***AAAI Workshop:** Dialog System Technology Challenge 10 (**DSTC**), 2022*
 
 - [Transforming Multi-Conditioned Generation from Meaning Representation](https://aclanthology.org/2021.ranlp-1.92.pdf) <br>
-**Joosung Lee**. <br>
+**Joosung Lee** <br>
 ***RANLP**, 2021*
 
 - [Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer](https://aclanthology.org/2020.inlg-1.25.pdf) <br>
-**Joosung Lee**. <br>
+**Joosung Lee** <br>
 ***INLG**, 2020 (**oral presentation**)*
 
 ## Other papers
@@ -77,28 +77,28 @@ NCHX Team <br>
 *Tech Report, 2025*
 
 - [PK-ICR: Persona-Knowledge Interactive Context Retrieval for Grounded Dialogue](https://arxiv.org/pdf/2302.06674.pdf) <br>
-Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang. <br>
+Minsik Oh, **Joosung Lee**, Jiwei Li, Guoyin Wang <br>
 ***EMNLP**, 2023 (**oral presentation**)*
 
 - [An Evaluation Dataset and Strategy for Building Robust Multi-turn Response Selection Model](https://arxiv.org/pdf/2109.04834.pdf) <br>
-Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee. <br>
+Kijong Han, Seojin Lee, Wooin Lee, **Joosung Lee**, Dong-hun Lee <br>
 ***EMNLP**, 2021*  
   
 - [Brightness-based convolutional neural network for thermal image enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8094863) <br>
-Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee.  <br>
+Kyungjae Lee, Junhyeop Lee, **Joosung Lee**, Sangwon Hwang, Sangyoun Lee  <br>
 *IEEE **Access**, 2017*
 
 ## Domestic Publication
 - [Controlled Korean Style Transfer using BERT](https://www.koreascience.or.kr/article/CFKO201930060752841.pdf) <br>
-**이주성**, 오연택, 변현진, 민경구. <br>
+**이주성**, 오연택, 변현진, 민경구 <br>
 *HCLT, 2019*
 
 - [Moving Object Detection in Non-stationary camera using Ensemble Approach](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07515805) <br>
-김우진，이준협，황상원，**이주성**，이상윤.  <br>
+김우진，이준협，황상원，**이주성**，이상윤  <br>
 *대한전자공학회 하계종합학술대회, 2018*
 
 - [RGB-VO: Visual Odometry using mono RGB](https://www.koreascience.or.kr/article/CFKO201826259815539.page) <br>
-**이주성**, 황상원, 김우진, 이상윤.  <br>
+**이주성**, 황상원, 김우진, 이상윤  <br>
 *KIPS, 2018*
 
 ## Preprint
